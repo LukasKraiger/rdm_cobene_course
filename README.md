@@ -1,6 +1,6 @@
-# Research Data Management for the Life Sciences
+# Research Data Management for the Doctoral School CoBeNe
 
-Welcome to the Research Data Management (RDM) for Life Science Course! This course is designed to equip PhD candidates from the Faculty of Life Sciences and the Centre for Microbiology and Environmental Systems Science at the University of Vienna with the fundamental knowledge and practical skills required to manage research data effectively throughout its lifecycle.
+Welcome to the Research Data Management (RDM) course for the Doctoral School CoBeNe! This course is designed to equip doctoral candidates from the Doctoral School CoBeNe at the University of Vienna with the fundamental knowledge and practical skills required to manage research data effectively throughout its lifecycle.
 
 ## Description
 
