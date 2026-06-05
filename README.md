@@ -1,7 +1,5 @@
 # Research Data Management for the Life Sciences
 
-DOI
-
 Welcome to the Research Data Management (RDM) for Life Science Course! This course is designed to equip PhD candidates from the Faculty of Life Sciences and the Centre for Microbiology and Environmental Systems Science at the University of Vienna with the fundamental knowledge and practical skills required to manage research data effectively throughout its lifecycle.
 
 ## Description
@@ -27,7 +25,7 @@ For a comprehensive guide on utilizing the materials for the in-person workshop,
 - Emily J. Kate (Data Steward, Faculty of Life Sciences, University of Vienna, Austria)
 - Michael Feichtinger (Data Steward, Centre for Microbiology and Environmental Systems Science, University of Vienna, Austria)
 - Lukas Kraiger (Data Steward of the Faculty of Psychology)
-- Jeanne Wilbrandt (Stadtforschung (URBANISE))
+- Jeanne Wilbrandt (Urban Research (URBANISE))
 
 ## License
 
