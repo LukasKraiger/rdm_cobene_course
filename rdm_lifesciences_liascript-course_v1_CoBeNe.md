@@ -355,7 +355,7 @@ We know we’ve thrown a lot of terms and concepts at you in this module: FAIR, 
 
 | FAIR Data Principles | Open Data | Research Data Management |
 | -------- | -------- | -------- |
-| Is about metadata and findability | Is available on the internet | Refers to the entire life cycle of research data from planning, generation, analysis, processing and backup, to documentation, archiving and publication, and finally, reuse by third parties |
+| Is about metadata and findability | Refers to data being available on the internet | Refers to the entire life cycle of research data from planning, generation, analysis, processing and backup, to documentation, archiving and publication, and finally, reuse by third parties |
 | Is about standards and interoperability | Can be freely used, modified and shared by anyone for any purpose | Enables FAIR and Open Data |
 | Is about machine-to-machine communication | Research data should be open as a default, unless there are legitimate reasons for keeping them closed. | RDM is mandatory in most funded projects that generate or reuse data |
 | Is also applicable to senstive data| As a general rule, open access to other research outputs such as software, protocols, simulations, ELN and others is not required but strongly recommended | DMPs are planning instruments for your RDM |
