@@ -424,6 +424,8 @@ Monika Bargmann is the data steward for the Faculty of Philological and Cultural
 
 Emliy Kate is the data steward for the Faculty of Life Sciences and you can email her at emliy.jean.kate@univie.ac.at. 
 
+Also for Urban Research you can contact Jeanne Wilbrandt at jeanne.wilbrandt@univie.ac.at.
+
 Alternatively, you can always reach the UNIVIE RDM team at rdm@univie.ac.at. They're available to anyone at the university and are always ready to help! No question too small! No mess too big!
 
 Quiz
@@ -509,6 +511,7 @@ A well-designed folder structure can help you quickly and easily locate the data
 - **Classify folders according to different project stages (raw, processed, analyzed):** Classify the folders based on the different stages of the project, such as raw data, processed data, and analyzed data. This will help you to organize the files based on their current stage of completion and make it easier to locate the data when needed.
 - **Document the naming scheme and folder structure:** Once you have finalized the folder structure, document it clearly to avoid confusion and ensure that all team members are on the same page.
 
+A recommended folder structure template is for example this one (https://doi.org/10.5334/dsj-2025-035).
 
 Quiz
 ================
@@ -1258,7 +1261,6 @@ The CARE principles are designed to take into account the complex social, politi
 
 **If you are part of the Faculty of Life Sciences you can also contact your data steward directly.**
 
-
 For the Faculty of Life Sciences, contact Emily J. Kate at emily.jean.kate@univie.ac.at. 
 
 **If you are part of the Faculty of Psychology you can also contact your data steward directly.**
@@ -1269,7 +1271,9 @@ For the Faculty of Psychology, contact Lukas Kraiger at lukas.kraiger@univie.ac.
 
 For the  Faculty of Philological and Cultural Studies, contact Monika Bargmann at monika.bargmann@univie.ac.at.
 
+**If you have a research project about Urban Research you can contact the Jeanne Wilbrandt**
 
+Jeanne Wilbrangt at jeanne.wilbrandt@univie.ac.at.
 
 
 

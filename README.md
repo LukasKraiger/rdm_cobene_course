@@ -20,6 +20,11 @@ The online modules are written in LiaScript, a Markdown dialect, making it conve
 
 For a comprehensive guide on utilizing the materials for the in-person workshop, please consult the activities guide for detailed instructions. Additionally, it is feasible to deliver the workshop in an online format with some slight modifications.
 
+If you want to prepare for the workshop / work with the liascript, use this link (rendered md):
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/LukasKraiger/rdm_cobene_course/main/rdm_lifesciences_liascript-course_v1_CoBeNe.md#1
+
+
 ## Contributors
 
 - Emily J. Kate (Data Steward, Faculty of Life Sciences, University of Vienna, Austria)
